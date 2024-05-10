@@ -3,6 +3,8 @@ const b= parseInt(prompt("ingresa tu segundo numero"))
 const c= parseInt(prompt("ingresa tu  tercer numero"))
 // entrada de numeros
 
+
+// imprimir cuando las entradas son iguales
 if (a==b || a==c || b==c){
     console.log( "hay 2 numeros  iguales") 
 }
